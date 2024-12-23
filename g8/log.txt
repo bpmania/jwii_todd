@@ -1,0 +1,1000 @@
+rColorwayOrSKU,value=["centric://REFLECTION/ENUM/PriceForColorwayOrSKU/Colorway","centric://REFLE
+CTION/ENUM/PriceForColorwayOrSKU/SKU","centric://REFLECTION/ENUM/PriceForColorwayOrSKU/Style"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Grainli
+neDesignation,value=["centric://REFLECTION/ENUM/GrainlineDesignation/CutWithGrainline","centric:/
+/REFLECTION/ENUM/GrainlineDesignation/CutAgainstGrainline"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ImportO
+perationMode,value=["centric://REFLECTION/ENUM/ImportOperationMode/Add","centric://REFLECTION/ENU
+M/ImportOperationMode/Reset","centric://REFLECTION/ENUM/ImportOperationMode/Update"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Documen
+tProcessingServiceProtocol,value=["centric://REFLECTION/ENUM/DocumentProcessingServiceProtocol/ht
+tp","centric://REFLECTION/ENUM/DocumentProcessingServiceProtocol/https"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ReviewC
+olorwayType,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ImageSi
+ze,value=["centric://REFLECTION/ENUM/ImageSize/Icon","centric://REFLECTION/ENUM/ImageSize/Smalles
+t","centric://REFLECTION/ENUM/ImageSize/Small","centric://REFLECTION/ENUM/ImageSize/Medium","cent
+ric://REFLECTION/ENUM/ImageSize/Large","centric://REFLECTION/ENUM/ImageSize/Largest"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Sourcin
+gType,value=["centric://REFLECTION/ENUM/SourcingType/Allocated","centric://REFLECTION/ENUM/Sourci
+ngType/Default","centric://REFLECTION/ENUM/SourcingType/SupplierSpecific"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Sourcin
+gModel,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/TradeTe
+rm,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/WbsElem
+ent.ScheduleStatus,value=["centric://REFLECTION/ENUM/WbsElement.ScheduleStatus/Complete","centric
+://REFLECTION/ENUM/WbsElement.ScheduleStatus/CompleteLate","centric://REFLECTION/ENUM/WbsElement.
+ScheduleStatus/Late","centric://REFLECTION/ENUM/WbsElement.ScheduleStatus/OnSchedule","centric://
+REFLECTION/ENUM/WbsElement.ScheduleStatus/PredictedLate"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ImageGa
+lleryType,value=["centric://REFLECTION/ENUM/ImageGalleryType/Turntable"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/PaperSi
+ze,value=["centric://REFLECTION/ENUM/PaperSize/Letter","centric://REFLECTION/ENUM/PaperSize/Legal
+","centric://REFLECTION/ENUM/PaperSize/Tabloid","centric://REFLECTION/ENUM/PaperSize/A5","centric
+://REFLECTION/ENUM/PaperSize/A4","centric://REFLECTION/ENUM/PaperSize/A3"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Purchas
+eOrderType,value=["centric://REFLECTION/ENUM/PurchaseOrderType/PurchasedOrder","centric://REFLECT
+ION/ENUM/PurchaseOrderType/CustomerOrder"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ColorMa
+terialDataSheetStatus,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPStat
+utRetail,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/MCStatu
+s,value=["centric://REFLECTION/ENUM/MCStatus/InProgress","centric://REFLECTION/ENUM/MCStatus/Erro
+r"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/PrintTy
+pe,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Workflo
+wStepType,value=["centric://REFLECTION/ENUM/WorkflowStepType/ACTIVITY","centric://REFLECTION/ENUM
+/WorkflowStepType/APPROVAL","centric://REFLECTION/ENUM/WorkflowStepType/REVIEW","centric://REFLEC
+TION/ENUM/WorkflowStepType/AUTOMATION"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Materia
+lSampleStatus,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Sourcin
+gItemFor,value=["centric://REFLECTION/ENUM/SourcingItemFor/Supplier","centric://REFLECTION/ENUM/S
+ourcingItemFor/Factory","centric://REFLECTION/ENUM/SourcingItemFor/ShippingPort"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Inspect
+ionState,value=["centric://REFLECTION/ENUM/InspectionState/Draft","centric://REFLECTION/ENUM/Insp
+ectionState/Submitted","centric://REFLECTION/ENUM/InspectionState/Planned","centric://REFLECTION/
+ENUM/InspectionState/InProgress","centric://REFLECTION/ENUM/InspectionState/PartiallyPassed","cen
+tric://REFLECTION/ENUM/InspectionState/Passed","centric://REFLECTION/ENUM/InspectionState/Failed"
+,"centric://REFLECTION/ENUM/InspectionState/Canceled","centric://REFLECTION/ENUM/InspectionState/
+Abandoned"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Project
+State,value=["centric://REFLECTION/ENUM/ProjectState/Draft","centric://REFLECTION/ENUM/ProjectSta
+te/InProgress","centric://REFLECTION/ENUM/ProjectState/Complete","centric://REFLECTION/ENUM/Proje
+ctState/Canceled"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Contrac
+tualDocumentSubtype,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/KpiTren
+dUp,value=["centric://REFLECTION/ENUM/KpiTrendUp/1","centric://REFLECTION/ENUM/KpiTrendUp/2","cen
+tric://REFLECTION/ENUM/KpiTrendUp/3","centric://REFLECTION/ENUM/KpiTrendUp/4","centric://REFLECTI
+ON/ENUM/KpiTrendUp/5"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Product
+SymbolType,value=["centric://REFLECTION/ENUM/ProductSymbolType/Brand","centric://REFLECTION/ENUM/
+ProductSymbolType/Feature","centric://REFLECTION/ENUM/ProductSymbolType/Function"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/SeasonS
+tatus,value=["centric://REFLECTION/ENUM/SeasonStatus/Pending","centric://REFLECTION/ENUM/SeasonSt
+atus/Active","centric://REFLECTION/ENUM/SeasonStatus/Complete"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Camunda
+TaskDueDateThreshold,value=["centric://REFLECTION/ENUM/CamundaTaskDueDateThreshold/0","centric://
+REFLECTION/ENUM/CamundaTaskDueDateThreshold/1","centric://REFLECTION/ENUM/CamundaTaskDueDateThres
+hold/2","centric://REFLECTION/ENUM/CamundaTaskDueDateThreshold/3","centric://REFLECTION/ENUM/Camu
+ndaTaskDueDateThreshold/4","centric://REFLECTION/ENUM/CamundaTaskDueDateThreshold/5","centric://R
+EFLECTION/ENUM/CamundaTaskDueDateThreshold/6","centric://REFLECTION/ENUM/CamundaTaskDueDateThresh
+old/7"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Comment
+Status,value=["centric://REFLECTION/ENUM/CommentStatus/Open","centric://REFLECTION/ENUM/CommentSt
+atus/Resolved"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Spec.Ap
+plicableForTypes,value=["centric://REFLECTION/ENUM/Spec.ApplicableForTypes/RetailProduct","centri
+c://REFLECTION/ENUM/Spec.ApplicableForTypes/Material","centric://REFLECTION/ENUM/Spec.ApplicableF
+orTypes/Style","centric://REFLECTION/ENUM/Spec.ApplicableForTypes/Project","centric://REFLECTION/
+ENUM/Spec.ApplicableForTypes/Food","centric://REFLECTION/ENUM/Spec.ApplicableForTypes/FormulatedM
+aterial"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Revisio
+n.State,value=["centric://REFLECTION/ENUM/Revision.State/DRAFT","centric://REFLECTION/ENUM/Revisi
+on.State/PENDING","centric://REFLECTION/ENUM/Revision.State/APPROVED","centric://REFLECTION/ENUM/
+Revision.State/SUPERSEDED","centric://REFLECTION/ENUM/Revision.State/ABANDONED","centric://REFLEC
+TION/ENUM/Revision.State/REVIEW","centric://REFLECTION/ENUM/Revision.State/PENDING2","centric://R
+EFLECTION/ENUM/Revision.State/SUBMITTED","centric://REFLECTION/ENUM/Revision.State/CLOSED","centr
+ic://REFLECTION/ENUM/Revision.State/MANAGED","centric://REFLECTION/ENUM/Revision.State/PROOFING"]
+
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ECIssue
+Severity,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/SizeRan
+geType,value=["centric://REFLECTION/ENUM/SizeRangeType/Simple","centric://REFLECTION/ENUM/SizeRan
+geType/Composite"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Materia
+lSampleType,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Size Ch
+art Compare,value=["centric://REFLECTION/ENUM/Size Chart Compare/None","centric://REFLECTION/ENUM
+/Size Chart Compare/Increment","centric://REFLECTION/ENUM/Size Chart Compare/Shape"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPOrde
+rStatus,value=["centric://REFLECTION/ENUM/VIPOrderStatus/Draft","centric://REFLECTION/ENUM/VIPOrd
+erStatus/Confirmed","centric://REFLECTION/ENUM/VIPOrderStatus/Validated"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPGrou
+peChgt,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Adoptio
+nStatus,value=["centric://REFLECTION/ENUM/AdoptionStatus/Abandoned","centric://REFLECTION/ENUM/Ad
+optionStatus/Adoptable","centric://REFLECTION/ENUM/AdoptionStatus/Adopted","centric://REFLECTION/
+ENUM/AdoptionStatus/Failed"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/License
+Config,value=["centric://REFLECTION/ENUM/LicenseConfig/Good","centric://REFLECTION/ENUM/LicenseCo
+nfig/Better","centric://REFLECTION/ENUM/LicenseConfig/Best","centric://REFLECTION/ENUM/LicenseCon
+fig/Development"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/NoTrack
+ingSubType,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Allerge
+nClaim,value=["centric://REFLECTION/ENUM/AllergenClaim/Contains","centric://REFLECTION/ENUM/Aller
+genClaim/MayContain","centric://REFLECTION/ENUM/AllergenClaim/None"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Formula
+tedMaterialSampleType,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPBoar
+dConfigurationName,value=["centric://REFLECTION/ENUM/VIPBoardConfigurationName/View","centric://R
+EFLECTION/ENUM/VIPBoardConfigurationName/Integration"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/OutputF
+ormat,value=["centric://REFLECTION/ENUM/OutputFormat/XLS","centric://REFLECTION/ENUM/OutputFormat
+/PDF","centric://REFLECTION/ENUM/OutputFormat/RTF","centric://REFLECTION/ENUM/OutputFormat/CSV"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/PDFServ
+iceEmailWhen,value=["centric://REFLECTION/ENUM/PDFServiceEmailWhen/Never","centric://REFLECTION/E
+NUM/PDFServiceEmailWhen/StoppedPolling","centric://REFLECTION/ENUM/PDFServiceEmailWhen/Failing"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/POWorkf
+lowStatus,value=["centric://REFLECTION/ENUM/POWorkflowStatus/None","centric://REFLECTION/ENUM/POW
+orkflowStatus/Pending","centric://REFLECTION/ENUM/POWorkflowStatus/Completed","centric://REFLECTI
+ON/ENUM/POWorkflowStatus/Cancelled","centric://REFLECTION/ENUM/POWorkflowStatus/ForceComplete"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ECPurpo
+se,value=["centric://REFLECTION/ENUM/ECPurpose/EngineeringChange","centric://REFLECTION/ENUM/ECPu
+rpose/ImpactAnalysis"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Inspect
+ionSectionState,value=["centric://REFLECTION/ENUM/InspectionSectionState/Passed","centric://REFLE
+CTION/ENUM/InspectionSectionState/Failed"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ECState
+,value=["centric://REFLECTION/ENUM/ECState/Draft","centric://REFLECTION/ENUM/ECState/Review","cen
+tric://REFLECTION/ENUM/ECState/Approved","centric://REFLECTION/ENUM/ECState/Canceled"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ECSpecT
+ype,value=["centric://REFLECTION/ENUM/ECSpecType/ApparelBOM","centric://REFLECTION/ENUM/ECSpecTyp
+e/Artwork","centric://REFLECTION/ENUM/ECSpecType/CareAndComposition","centric://REFLECTION/ENUM/E
+CSpecType/Document","centric://REFLECTION/ENUM/ECSpecType/ImageDataSheet","centric://REFLECTION/E
+NUM/ECSpecType/MaterialBOM","centric://REFLECTION/ENUM/ECSpecType/MaterialDataSheet","centric://R
+EFLECTION/ENUM/ECSpecType/Review","centric://REFLECTION/ENUM/ECSpecType/Routing","centric://REFLE
+CTION/ENUM/ECSpecType/SizeChart","centric://REFLECTION/ENUM/ECSpecType/SpecificationDataSheet"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/EmailNo
+tification,value=["centric://REFLECTION/ENUM/EmailNotification/AllCommentsDecisions","centric://R
+EFLECTION/ENUM/EmailNotification/RepliesToComments","centric://REFLECTION/ENUM/EmailNotification/
+Decisions","centric://REFLECTION/ENUM/EmailNotification/FinalDecision","centric://REFLECTION/ENUM
+/EmailNotification/HourlyDigest","centric://REFLECTION/ENUM/EmailNotification/DailyDigest","centr
+ic://REFLECTION/ENUM/EmailNotification/None"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Camunda
+TaskType,value=["centric://REFLECTION/ENUM/CamundaTaskType/ServiceTask","centric://REFLECTION/ENU
+M/CamundaTaskType/UserTask"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Camunda
+TaskActionColor,value=["centric://REFLECTION/ENUM/CamundaTaskActionColor/1","centric://REFLECTION
+/ENUM/CamundaTaskActionColor/2","centric://REFLECTION/ENUM/CamundaTaskActionColor/3","centric://R
+EFLECTION/ENUM/CamundaTaskActionColor/4","centric://REFLECTION/ENUM/CamundaTaskActionColor/5"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/DBExpor
+tType,value=["centric://REFLECTION/ENUM/DBExportType/C8","centric://REFLECTION/ENUM/DBExportType/
+SQL Server","centric://REFLECTION/ENUM/DBExportType/Oracle"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/WbsElem
+ent.StartPolicy,value=["centric://REFLECTION/ENUM/WbsElement.StartPolicy/AsSoonAsPossible","centr
+ic://REFLECTION/ENUM/WbsElement.StartPolicy/AsLateAsPossible","centric://REFLECTION/ENUM/WbsEleme
+nt.StartPolicy/FixedStartDate"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Shipmen
+tType,value=["centric://REFLECTION/ENUM/ShipmentType/Container","centric://REFLECTION/ENUM/Shipme
+ntType/Parcel"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Inspect
+ionLevel,value=["centric://REFLECTION/ENUM/InspectionLevel/Level 1","centric://REFLECTION/ENUM/In
+spectionLevel/Level 2","centric://REFLECTION/ENUM/InspectionLevel/Level 3"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPBuye
+rType,value=["centric://REFLECTION/ENUM/VIPBuyerType/Internal","centric://REFLECTION/ENUM/VIPBuye
+rType/External"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/BOMVali
+dation,value=["centric://REFLECTION/ENUM/BOMValidation/Valid","centric://REFLECTION/ENUM/BOMValid
+ation/Invalid","centric://REFLECTION/ENUM/BOMValidation/Compatibility","centric://REFLECTION/ENUM
+/BOMValidation/Query","centric://REFLECTION/ENUM/BOMValidation/Type","centric://REFLECTION/ENUM/B
+OMValidation/Availability","centric://REFLECTION/ENUM/BOMValidation/Season Availability","centric
+://REFLECTION/ENUM/BOMValidation/Source Availability","centric://REFLECTION/ENUM/BOMValidation/Co
+lor Palette"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Materia
+lSubtype,value=["C1153","C88530"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Inspect
+ionYear,value=["centric://REFLECTION/ENUM/InspectionYear/2021","centric://REFLECTION/ENUM/Inspect
+ionYear/2022","centric://REFLECTION/ENUM/InspectionYear/2023","centric://REFLECTION/ENUM/Inspecti
+onYear/2024","centric://REFLECTION/ENUM/InspectionYear/2025","centric://REFLECTION/ENUM/Inspectio
+nYear/2026","centric://REFLECTION/ENUM/InspectionYear/2027","centric://REFLECTION/ENUM/Inspection
+Year/2028","centric://REFLECTION/ENUM/InspectionYear/2029","centric://REFLECTION/ENUM/InspectionY
+ear/2030"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/SkinThe
+me,value=["centric://REFLECTION/ENUM/SkinTheme/CentricBlue","centric://REFLECTION/ENUM/SkinTheme/
+Indigo","centric://REFLECTION/ENUM/SkinTheme/Dusk","centric://REFLECTION/ENUM/SkinTheme/Luxe","ce
+ntric://REFLECTION/ENUM/SkinTheme/OceanWave","centric://REFLECTION/ENUM/SkinTheme/VioletMist","ce
+ntric://REFLECTION/ENUM/SkinTheme/StarryNight","centric://REFLECTION/ENUM/SkinTheme/SunsetBouleva
+rd","centric://REFLECTION/ENUM/SkinTheme/ArcticFresh","centric://REFLECTION/ENUM/SkinTheme/SeaBre
+eze","centric://REFLECTION/ENUM/SkinTheme/Spearmint","centric://REFLECTION/ENUM/SkinTheme/DragonF
+ruit"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Capabil
+ities,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/IssueSt
+atus,value=["C96404","C96405","C96406","C96407","C96408"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/StyleTy
+peDataSheets,value=["centric://REFLECTION/ENUM/StyleTypeDataSheets/Artwork","centric://REFLECTION
+/ENUM/StyleTypeDataSheets/ApparelBOM","centric://REFLECTION/ENUM/StyleTypeDataSheets/ImageDataShe
+et","centric://REFLECTION/ENUM/StyleTypeDataSheets/PropertiesDataSheet","centric://REFLECTION/ENU
+M/StyleTypeDataSheets/ReviewStyle","centric://REFLECTION/ENUM/StyleTypeDataSheets/Routing","centr
+ic://REFLECTION/ENUM/StyleTypeDataSheets/SizeChart","centric://REFLECTION/ENUM/StyleTypeDataSheet
+s/DataSheetSizeLabel","centric://REFLECTION/ENUM/StyleTypeDataSheets/SpecificationDataSheet","cen
+tric://REFLECTION/ENUM/StyleTypeDataSheets/CareAndComposition","centric://REFLECTION/ENUM/StyleTy
+peDataSheets/PriceList","centric://REFLECTION/ENUM/StyleTypeDataSheets/TestRun","centric://REFLEC
+TION/ENUM/StyleTypeDataSheets/FoodLabelDataSheet"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ThemeTo
+Season,value=["centric://REFLECTION/ENUM/ThemeToSeason/MultipleSeasons","centric://REFLECTION/ENU
+M/ThemeToSeason/SingleSeason","centric://REFLECTION/ENUM/ThemeToSeason/AllSeasons"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/AutoCre
+ateProductSKU,value=["centric://REFLECTION/ENUM/AutoCreateProductSKU/Off","centric://REFLECTION/E
+NUM/AutoCreateProductSKU/Prompt","centric://REFLECTION/ENUM/AutoCreateProductSKU/On"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ColorPr
+oductSources,value=["centric://REFLECTION/ENUM/ColorProductSources/Enabled","centric://REFLECTION
+/ENUM/ColorProductSources/Off"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Wbs.Sta
+te,value=["centric://REFLECTION/ENUM/Wbs.State/Suspended","centric://REFLECTION/ENUM/Wbs.State/Pl
+anned","centric://REFLECTION/ENUM/Wbs.State/InProcess","centric://REFLECTION/ENUM/Wbs.State/Compl
+ete","centric://REFLECTION/ENUM/Wbs.State/Replanning"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ECItemT
+ype,value=["centric://REFLECTION/ENUM/ECItemType/Style","centric://REFLECTION/ENUM/ECItemType/Mat
+erial","centric://REFLECTION/ENUM/ECItemType/FoodIngredient","centric://REFLECTION/ENUM/ECItemTyp
+e/FormulatedMaterial"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/STRUCTI
+TEMTYPE,value=["centric://REFLECTION/ENUM/STRUCTITEMTYPE/Category1","centric://REFLECTION/ENUM/ST
+RUCTITEMTYPE/Category2","centric://REFLECTION/ENUM/STRUCTITEMTYPE/Collection"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/DataPac
+kageContainerType,value=["centric://REFLECTION/ENUM/DataPackageContainerType/Style","centric://RE
+FLECTION/ENUM/DataPackageContainerType/Material","centric://REFLECTION/ENUM/DataPackageContainerT
+ype/Food","centric://REFLECTION/ENUM/DataPackageContainerType/FoodSKU","centric://REFLECTION/ENUM
+/DataPackageContainerType/FormulatedMaterial"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/FoodTyp
+eDataSheet,value=["centric://REFLECTION/ENUM/FoodTypeDataSheet/Artwork","centric://REFLECTION/ENU
+M/FoodTypeDataSheet/FoodBOM","centric://REFLECTION/ENUM/FoodTypeDataSheet/FoodLabelDataSheet","ce
+ntric://REFLECTION/ENUM/FoodTypeDataSheet/RecipeDataSheet","centric://REFLECTION/ENUM/FoodTypeDat
+aSheet/ReviewFood","centric://REFLECTION/ENUM/FoodTypeDataSheet/Routing","centric://REFLECTION/EN
+UM/FoodTypeDataSheet/SpecificationDataSheet","centric://REFLECTION/ENUM/FoodTypeDataSheet/TestRun
+"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/SKUMate
+rialSubtype,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/KpiColo
+r3,value=["centric://REFLECTION/ENUM/KpiColor3/1","centric://REFLECTION/ENUM/KpiColor3/3","centri
+c://REFLECTION/ENUM/KpiColor3/5"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/KpiColo
+r2,value=["centric://REFLECTION/ENUM/KpiColor2/1","centric://REFLECTION/ENUM/KpiColor2/5"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ViewPor
+tal,value=["centric://REFLECTION/ENUM/ViewPortal/Host","centric://REFLECTION/ENUM/ViewPortal/Supp
+lier"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPLine
+List,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/CustomC
+ollectionBackgroundColor,value=["centric://REFLECTION/ENUM/CustomCollectionBackgroundColor/0","ce
+ntric://REFLECTION/ENUM/CustomCollectionBackgroundColor/1","centric://REFLECTION/ENUM/CustomColle
+ctionBackgroundColor/2"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Composi
+tionCharacteristic,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/FinalIn
+spectionType,value=["centric://REFLECTION/ENUM/FinalInspectionType/Shipment","centric://REFLECTIO
+N/ENUM/FinalInspectionType/Order"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ORSubQu
+estionResponse,value=["centric://REFLECTION/ENUM/ORSubQuestionResponse/Yes","centric://REFLECTION
+/ENUM/ORSubQuestionResponse/No"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Generat
+edFrom,value=["centric://REFLECTION/ENUM/GeneratedFrom/Theme","centric://REFLECTION/ENUM/Generate
+dFrom/Availability","centric://REFLECTION/ENUM/GeneratedFrom/Split"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ActualI
+temsSelectionPreference,value=["centric://REFLECTION/ENUM/ActualItemsSelectionPreference/BaseProd
+uct","centric://REFLECTION/ENUM/ActualItemsSelectionPreference/BaseRealizedProduct"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPClie
+ntSalesDistrict,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Printer
+Names,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ImageEx
+portFormat,value=["centric://REFLECTION/ENUM/ImageExportFormat/Static","centric://REFLECTION/ENUM
+/ImageExportFormat/Dynamic"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Purchas
+edOrderState,value=["centric://REFLECTION/ENUM/PurchasedOrderState/Draft","centric://REFLECTION/E
+NUM/PurchasedOrderState/Negotiation","centric://REFLECTION/ENUM/PurchasedOrderState/Ready","centr
+ic://REFLECTION/ENUM/PurchasedOrderState/Issued","centric://REFLECTION/ENUM/PurchasedOrderState/C
+losed","centric://REFLECTION/ENUM/PurchasedOrderState/Abandoned"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Dimensi
+onType,value=["centric://REFLECTION/ENUM/DimensionType/Size"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Size Ch
+art Inch Fractions,value=["centric://REFLECTION/ENUM/Size Chart Inch Fractions/1/16","centric://R
+EFLECTION/ENUM/Size Chart Inch Fractions/1/8","centric://REFLECTION/ENUM/Size Chart Inch Fraction
+s/1/4","centric://REFLECTION/ENUM/Size Chart Inch Fractions/1/2"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPEnti
+tyType,value=["centric://REFLECTION/ENUM/VIPEntityType/Product","centric://REFLECTION/ENUM/VIPEnt
+ityType/BuyingSession","centric://REFLECTION/ENUM/VIPEntityType/ZoneAssortment","centric://REFLEC
+TION/ENUM/VIPEntityType/StoreAssortment","centric://REFLECTION/ENUM/VIPEntityType/BuyingSessionPr
+oduct","centric://REFLECTION/ENUM/VIPEntityType/ZoneAssortmentProduct","centric://REFLECTION/ENUM
+/VIPEntityType/StoreAssortmentProduct"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/StageTr
+iggerType,value=["centric://REFLECTION/ENUM/StageTriggerType/Immediately","centric://REFLECTION/E
+NUM/StageTriggerType/Manual","centric://REFLECTION/ENUM/StageTriggerType/DeadlineReached","centri
+c://REFLECTION/ENUM/StageTriggerType/OnApproved","centric://REFLECTION/ENUM/StageTriggerType/OnAp
+provedWithChanges","centric://REFLECTION/ENUM/StageTriggerType/OnChangesRequired","centric://REFL
+ECTION/ENUM/StageTriggerType/OnCompletion"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Wbs.Wor
+kingDaysPerWeek,value=["centric://REFLECTION/ENUM/Wbs.WorkingDaysPerWeek/Monday","centric://REFLE
+CTION/ENUM/Wbs.WorkingDaysPerWeek/Tuesday","centric://REFLECTION/ENUM/Wbs.WorkingDaysPerWeek/Wedn
+esday","centric://REFLECTION/ENUM/Wbs.WorkingDaysPerWeek/Thursday","centric://REFLECTION/ENUM/Wbs
+.WorkingDaysPerWeek/Friday","centric://REFLECTION/ENUM/Wbs.WorkingDaysPerWeek/Saturday","centric:
+//REFLECTION/ENUM/Wbs.WorkingDaysPerWeek/Sunday"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Size Ch
+art Pattern,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Supplie
+rRequestState,value=["centric://REFLECTION/ENUM/SupplierRequestState/Draft","centric://REFLECTION
+/ENUM/SupplierRequestState/Generating","centric://REFLECTION/ENUM/SupplierRequestState/Issued","c
+entric://REFLECTION/ENUM/SupplierRequestState/Complete","centric://REFLECTION/ENUM/SupplierReques
+tState/Failed"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Supplie
+rType,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Project
+TypeDataSheet,value=["centric://REFLECTION/ENUM/ProjectTypeDataSheet/SpecificationDataSheet","cen
+tric://REFLECTION/ENUM/ProjectTypeDataSheet/None"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Materia
+lTypeDataSheets,value=["centric://REFLECTION/ENUM/MaterialTypeDataSheets/MaterialBOM","centric://
+REFLECTION/ENUM/MaterialTypeDataSheets/Routing","centric://REFLECTION/ENUM/MaterialTypeDataSheets
+/SpecificationDataSheet","centric://REFLECTION/ENUM/MaterialTypeDataSheets/TestRun","centric://RE
+FLECTION/ENUM/MaterialTypeDataSheets/FoodLabelDataSheet"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/TestRun
+SectionStatus,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/StockOr
+derState,value=["centric://REFLECTION/ENUM/StockOrderState/Draft","centric://REFLECTION/ENUM/Stoc
+kOrderState/Issued","centric://REFLECTION/ENUM/StockOrderState/Accepted","centric://REFLECTION/EN
+UM/StockOrderState/Fulfilled","centric://REFLECTION/ENUM/StockOrderState/Canceled"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPBuyi
+ngSessionType,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/DGaaSGe
+neratedDocumentType,value=["centric://REFLECTION/ENUM/DGaaSGeneratedDocumentType/Word","centric:/
+/REFLECTION/ENUM/DGaaSGeneratedDocumentType/PDF","centric://REFLECTION/ENUM/DGaaSGeneratedDocumen
+tType/Excel"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Supplie
+rCompliance,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/FoodSam
+pleType,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ColorMa
+terialSamples,value=["centric://REFLECTION/ENUM/ColorMaterialSamples/Master"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Documen
+tType,value=["C4912","C4913","C5515","C5516","C5517","C5581","C5582","C5583","C5584","C5585","C55
+86","C27323","C27324","C27325","C27326","C39713","centric://REFLECTION/ENUM/DocumentType/AuditTem
+plate","centric://REFLECTION/ENUM/DocumentType/AuditReport","C75948","C87745"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Inspect
+ionMonth,value=["centric://REFLECTION/ENUM/InspectionMonth/1","centric://REFLECTION/ENUM/Inspecti
+onMonth/2","centric://REFLECTION/ENUM/InspectionMonth/3","centric://REFLECTION/ENUM/InspectionMon
+th/4","centric://REFLECTION/ENUM/InspectionMonth/5","centric://REFLECTION/ENUM/InspectionMonth/6"
+,"centric://REFLECTION/ENUM/InspectionMonth/7","centric://REFLECTION/ENUM/InspectionMonth/8","cen
+tric://REFLECTION/ENUM/InspectionMonth/9","centric://REFLECTION/ENUM/InspectionMonth/10","centric
+://REFLECTION/ENUM/InspectionMonth/11","centric://REFLECTION/ENUM/InspectionMonth/12"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Initial
+BOMProductSizes,value=["centric://REFLECTION/ENUM/InitialBOMProductSizes/ProductSizes","centric:/
+/REFLECTION/ENUM/InitialBOMProductSizes/NoSizes"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/JobStat
+e,value=["centric://REFLECTION/ENUM/JobState/None","centric://REFLECTION/ENUM/JobState/Waiting","
+centric://REFLECTION/ENUM/JobState/InProgress","centric://REFLECTION/ENUM/JobState/Success","cent
+ric://REFLECTION/ENUM/JobState/Interrupted","centric://REFLECTION/ENUM/JobState/Failed"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ProofDe
+cisionStatus,value=["centric://REFLECTION/ENUM/ProofDecisionStatus/NotStarted","centric://REFLECT
+ION/ENUM/ProofDecisionStatus/Uploading","centric://REFLECTION/ENUM/ProofDecisionStatus/Failed","c
+entric://REFLECTION/ENUM/ProofDecisionStatus/DecisionPending","centric://REFLECTION/ENUM/ProofDec
+isionStatus/InProgress","centric://REFLECTION/ENUM/ProofDecisionStatus/ChangesRequired","centric:
+//REFLECTION/ENUM/ProofDecisionStatus/ApprovedWithChanges","centric://REFLECTION/ENUM/ProofDecisi
+onStatus/Approved","centric://REFLECTION/ENUM/ProofDecisionStatus/ReviewComplete","centric://REFL
+ECTION/ENUM/ProofDecisionStatus/ViewOnly","centric://REFLECTION/ENUM/ProofDecisionStatus/NewVersi
+onAvailable"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Size Ch
+art Units,value=["centric://REFLECTION/ENUM/Size Chart Units/CM","centric://REFLECTION/ENUM/Size
+Chart Units/MM","centric://REFLECTION/ENUM/Size Chart Units/IN - Decimal","centric://REFLECTION/E
+NUM/Size Chart Units/IN - Fraction"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Schedul
+eKind,value=["centric://REFLECTION/ENUM/ScheduleKind/Stopped","centric://REFLECTION/ENUM/Schedule
+Kind/OneTime","centric://REFLECTION/ENUM/ScheduleKind/EveryDay","centric://REFLECTION/ENUM/Schedu
+leKind/EveryBusinessDay","centric://REFLECTION/ENUM/ScheduleKind/EveryNumberSeconds"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPFloo
+rDisplay2,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/SourceS
+tate,value=["centric://REFLECTION/ENUM/SourceState/Pending","centric://REFLECTION/ENUM/SourceStat
+e/Approved","centric://REFLECTION/ENUM/SourceState/Inactive"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPFit,
+value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/LabelIt
+emCalculationStatus,value=["centric://REFLECTION/ENUM/LabelItemCalculationStatus/Calculated","cen
+tric://REFLECTION/ENUM/LabelItemCalculationStatus/Manual","centric://REFLECTION/ENUM/LabelItemCal
+culationStatus/Obsoleted","centric://REFLECTION/ENUM/LabelItemCalculationStatus/Mixed"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ImageFo
+rmat,value=["centric://REFLECTION/ENUM/ImageFormat/JPEG","centric://REFLECTION/ENUM/ImageFormat/P
+NG"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ACTIVIT
+YTYPE,value=["centric://REFLECTION/ENUM/ACTIVITYTYPE/Activity","centric://REFLECTION/ENUM/ACTIVIT
+YTYPE/TrackActivity","centric://REFLECTION/ENUM/ACTIVITYTYPE/ExpressionActivity","centric://REFLE
+CTION/ENUM/ACTIVITYTYPE/Milestone"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/HiggMat
+erialClasses,value=["centric://REFLECTION/ENUM/HiggMaterialClasses/Acquired","centric://REFLECTIO
+N/ENUM/HiggMaterialClasses/Company Custom","centric://REFLECTION/ENUM/HiggMaterialClasses/Example
+"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/LockOut
+ReactivationModeOptions,value=["centric://REFLECTION/ENUM/LockOutReactivationModeOptions/Automati
+c","centric://REFLECTION/ENUM/LockOutReactivationModeOptions/Manual"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/StyleSu
+btype,value=["C746"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Inspect
+ionTestResponse,value=["centric://REFLECTION/ENUM/InspectionTestResponse/Failed","centric://REFLE
+CTION/ENUM/InspectionTestResponse/Passed"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Linking
+Type,value=["centric://REFLECTION/ENUM/LinkingType/NoLink","centric://REFLECTION/ENUM/LinkingType
+/BOM","centric://REFLECTION/ENUM/LinkingType/SizeChart","centric://REFLECTION/ENUM/LinkingType/Sp
+ecDataSheet","centric://REFLECTION/ENUM/LinkingType/ReviewStyle"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/DutySta
+tus,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Formula
+tedMaterialTypeDataSheet,value=["centric://REFLECTION/ENUM/FormulatedMaterialTypeDataSheet/FoodLa
+belDataSheet","centric://REFLECTION/ENUM/FormulatedMaterialTypeDataSheet/RecipeDataSheet","centri
+c://REFLECTION/ENUM/FormulatedMaterialTypeDataSheet/ReviewFood","centric://REFLECTION/ENUM/Formul
+atedMaterialTypeDataSheet/Routing","centric://REFLECTION/ENUM/FormulatedMaterialTypeDataSheet/Spe
+cificationDataSheet","centric://REFLECTION/ENUM/FormulatedMaterialTypeDataSheet/TestRun"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ChangeT
+rackingType,value=["centric://REFLECTION/ENUM/ChangeTrackingType/Created","centric://REFLECTION/E
+NUM/ChangeTrackingType/Deleted","centric://REFLECTION/ENUM/ChangeTrackingType/Updated","centric:/
+/REFLECTION/ENUM/ChangeTrackingType/Archived"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Marketi
+ngSegmentName,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/CareSym
+bolPurpose,value=["centric://REFLECTION/ENUM/CareSymbolPurpose/Icon","centric://REFLECTION/ENUM/C
+areSymbolPurpose/Text"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPBuyi
+ngSessionProductTag,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/QueryFi
+lter_BooleanOperation,value=["centric://REFLECTION/ENUM/QueryFilter_BooleanOperation/AND","centri
+c://REFLECTION/ENUM/QueryFilter_BooleanOperation/OR","centric://REFLECTION/ENUM/QueryFilter_Boole
+anOperation/NOT"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ReviewE
+ventStatus,value=["centric://REFLECTION/ENUM/ReviewEventStatus/Scheduled","centric://REFLECTION/E
+NUM/ReviewEventStatus/In-Progress","centric://REFLECTION/ENUM/ReviewEventStatus/Completed"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/SampleQ
+tyMethod,value=["centric://REFLECTION/ENUM/SampleQtyMethod/All","centric://REFLECTION/ENUM/Sample
+QtyMethod/StaticValue","centric://REFLECTION/ENUM/SampleQtyMethod/PercentageValue"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Attribu
+tesClearedOnCopy,value=["centric://REFLECTION/ENUM/AttributesClearedOnCopy/OnlyForColors","centri
+c://REFLECTION/ENUM/AttributesClearedOnCopy/OnlyForProductAlternatives","centric://REFLECTION/ENU
+M/AttributesClearedOnCopy/OnlyForSalesRegions","centric://REFLECTION/ENUM/AttributesClearedOnCopy
+/OnlyForSizes"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPChan
+nel,value=["centric://REFLECTION/ENUM/VIPChannel/Retail","centric://REFLECTION/ENUM/VIPChannel/Wh
+olesale"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/PrintTe
+chnique,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ThemeTy
+pe,value=["centric://REFLECTION/ENUM/ThemeType/Simple","centric://REFLECTION/ENUM/ThemeType/Combi
+ned"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/KpiColo
+r,value=["centric://REFLECTION/ENUM/KpiColor/1","centric://REFLECTION/ENUM/KpiColor/2","centric:/
+/REFLECTION/ENUM/KpiColor/3","centric://REFLECTION/ENUM/KpiColor/4","centric://REFLECTION/ENUM/Kp
+iColor/5"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/DutyMat
+erial,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ActionI
+temStep.State,value=["centric://REFLECTION/ENUM/ActionItemStep.State/DRAFT","centric://REFLECTION
+/ENUM/ActionItemStep.State/OPEN","centric://REFLECTION/ENUM/ActionItemStep.State/AUTHORIZED","cen
+tric://REFLECTION/ENUM/ActionItemStep.State/REJECTED","centric://REFLECTION/ENUM/ActionItemStep.S
+tate/ABANDONED","centric://REFLECTION/ENUM/ActionItemStep.State/SUSPENDED"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/PDFRequ
+estType,value=["centric://REFLECTION/ENUM/PDFRequestType/PDF","centric://REFLECTION/ENUM/PDFReque
+stType/CanvasSnapshot"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ActionI
+temStepResponse.Recommendation,value=["centric://REFLECTION/ENUM/ActionItemStepResponse.Recommend
+ation/NONE","centric://REFLECTION/ENUM/ActionItemStepResponse.Recommendation/ACCEPT","centric://R
+EFLECTION/ENUM/ActionItemStepResponse.Recommendation/REJECT"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/State,v
+alue=["centric://REFLECTION/ENUM/State/Running","centric://REFLECTION/ENUM/State/Stopped"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/WbsLate
+nessMode,value=["centric://REFLECTION/ENUM/WbsLatenessMode/BaselineDates","centric://REFLECTION/E
+NUM/WbsLatenessMode/PlannedDates"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPRTWA
+CC,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/CanvasN
+otesOrientation,value=["centric://REFLECTION/ENUM/CanvasNotesOrientation/left","centric://REFLECT
+ION/ENUM/CanvasNotesOrientation/top"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/MerchPr
+opagateToLevel,value=["centric://REFLECTION/ENUM/MerchPropagateToLevel/MerchFolderVersion","centr
+ic://REFLECTION/ENUM/MerchPropagateToLevel/MerchCollectionVersion","centric://REFLECTION/ENUM/Mer
+chPropagateToLevel/MerchProductVersion","centric://REFLECTION/ENUM/MerchPropagateToLevel/MerchOpt
+ionVersion"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/FoodSam
+pleStatus,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/UserTas
+kPriority,value=["centric://REFLECTION/ENUM/UserTaskPriority/1","centric://REFLECTION/ENUM/UserTa
+skPriority/2","centric://REFLECTION/ENUM/UserTaskPriority/3","centric://REFLECTION/ENUM/UserTaskP
+riority/4","centric://REFLECTION/ENUM/UserTaskPriority/5"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/WbsCate
+gory,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Camunda
+ActivityState,value=["centric://REFLECTION/ENUM/CamundaActivityState/Started","centric://REFLECTI
+ON/ENUM/CamundaActivityState/Completed","centric://REFLECTION/ENUM/CamundaActivityState/Suspended
+","centric://REFLECTION/ENUM/CamundaActivityState/Cancelled","centric://REFLECTION/ENUM/CamundaAc
+tivityState/Error"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ShapeTy
+peDataSheets,value=["centric://REFLECTION/ENUM/ShapeTypeDataSheets/SizeChart"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/CopyQuo
+teImagesToStyle,value=["centric://REFLECTION/ENUM/CopyQuoteImagesToStyle/Append","centric://REFLE
+CTION/ENUM/CopyQuoteImagesToStyle/Replace"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ThemeMa
+inMaterialGroup,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ReviewS
+tyleType,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/CDocSou
+rceObjectType,value=["centric://REFLECTION/ENUM/CDocSourceObjectType/TestRun"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/CanvasT
+emplateDatasheetType,value=["centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/PrintDesign","
+centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/Theme","centric://REFLECTION/ENUM/CanvasTem
+plateDatasheetType/MarketingCollection","centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/Ca
+reAndComposition","centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/Routing","centric://REFL
+ECTION/ENUM/CanvasTemplateDatasheetType/SpecificationDataSheet","centric://REFLECTION/ENUM/Canvas
+TemplateDatasheetType/Artwork","centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/ApparelBOM"
+,"centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/ImageDataSheet","centric://REFLECTION/ENU
+M/CanvasTemplateDatasheetType/PropertiesDataSheet","centric://REFLECTION/ENUM/CanvasTemplateDatas
+heetType/ReviewCollection","centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/ReviewColorway"
+,"centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/ReviewSKU","centric://REFLECTION/ENUM/Can
+vasTemplateDatasheetType/ReviewStyle","centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/Size
+Chart","centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/SizeChartReview","centric://REFLECT
+ION/ENUM/CanvasTemplateDatasheetType/MaterialBOM","centric://REFLECTION/ENUM/CanvasTemplateDatash
+eetType/MaterialDataSheet","centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/ColorDataSheet"
+,"centric://REFLECTION/ENUM/CanvasTemplateDatasheetType/ProductPresentationLayout","centric://REF
+LECTION/ENUM/CanvasTemplateDatasheetType/TestRun"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPSale
+sOrganisation,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPNoti
+ficationSource,value=["centric://REFLECTION/ENUM/VIPNotificationSource/System","centric://REFLECT
+ION/ENUM/VIPNotificationSource/User"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ImportD
+elimiter,value=["centric://REFLECTION/ENUM/ImportDelimiter/Comma","centric://REFLECTION/ENUM/Impo
+rtDelimiter/Tab"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPFloo
+rDisplay,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ThemeBO
+MFeature,value=["centric://REFLECTION/ENUM/ThemeBOMFeature/Off","centric://REFLECTION/ENUM/ThemeB
+OMFeature/MaterialPlan","centric://REFLECTION/ENUM/ThemeBOMFeature/StyleBOM"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/SharedC
+rewLevel,value=["centric://REFLECTION/ENUM/SharedCrewLevel/Project","centric://REFLECTION/ENUM/Sh
+aredCrewLevel/ProductHierarchy","centric://REFLECTION/ENUM/SharedCrewLevel/ProductHierarchyFolder
+","centric://REFLECTION/ENUM/SharedCrewLevel/Season","centric://REFLECTION/ENUM/SharedCrewLevel/C
+ategory1","centric://REFLECTION/ENUM/SharedCrewLevel/Category2","centric://REFLECTION/ENUM/Shared
+CrewLevel/Collection","centric://REFLECTION/ENUM/SharedCrewLevel/ColorPalette","centric://REFLECT
+ION/ENUM/SharedCrewLevel/EngineeringChange"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Camunda
+TaskActionIcon,value=["centric://REFLECTION/ENUM/CamundaTaskActionIcon/1","centric://REFLECTION/E
+NUM/CamundaTaskActionIcon/2","centric://REFLECTION/ENUM/CamundaTaskActionIcon/3","centric://REFLE
+CTION/ENUM/CamundaTaskActionIcon/4","centric://REFLECTION/ENUM/CamundaTaskActionIcon/5","centric:
+//REFLECTION/ENUM/CamundaTaskActionIcon/6","centric://REFLECTION/ENUM/CamundaTaskActionIcon/7","c
+entric://REFLECTION/ENUM/CamundaTaskActionIcon/8"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Nutrien
+tUOM,value=["centric://REFLECTION/ENUM/NutrientUOM/mcg","centric://REFLECTION/ENUM/NutrientUOM/mg
+","centric://REFLECTION/ENUM/NutrientUOM/g","centric://REFLECTION/ENUM/NutrientUOM/kcal","centric
+://REFLECTION/ENUM/NutrientUOM/kJ"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Project
+LineItemToSKU,value=["centric://REFLECTION/ENUM/ProjectLineItemToSKU/None","centric://REFLECTION/
+ENUM/ProjectLineItemToSKU/OneForEachSKU","centric://REFLECTION/ENUM/ProjectLineItemToSKU/OneForEa
+chSKURequired","centric://REFLECTION/ENUM/ProjectLineItemToSKU/OneForAllSKU","centric://REFLECTIO
+N/ENUM/ProjectLineItemToSKU/OneForAllSKURequired"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/PDFServ
+iceProtocol,value=["centric://REFLECTION/ENUM/PDFServiceProtocol/http","centric://REFLECTION/ENUM
+/PDFServiceProtocol/https"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Quality
+ControlResult,value=["centric://REFLECTION/ENUM/QualityControlResult/Pending","centric://REFLECTI
+ON/ENUM/QualityControlResult/Fail","centric://REFLECTION/ENUM/QualityControlResult/Pass"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/LinkPro
+ductSourceToSupplierCrew,value=["centric://REFLECTION/ENUM/LinkProductSourceToSupplierCrew/Enable
+d","centric://REFLECTION/ENUM/LinkProductSourceToSupplierCrew/Disabled"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPJobN
+ame,value=["centric://REFLECTION/ENUM/VIPJobName/ADD_ASSORTMENT_PRODUCTS_TO_VIP_BUYING_SESSION_PR
+ODUCT","centric://REFLECTION/ENUM/VIPJobName/ADD_ORDER_PRODUCTS_TO_VIP_BUYING_SESSION_PRODUCT","c
+entric://REFLECTION/ENUM/VIPJobName/CONVERT_WISHLIST_TO_ORDER"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/CDocRen
+ewalPeriod,value=["centric://REFLECTION/ENUM/CDocRenewalPeriod/3 months","centric://REFLECTION/EN
+UM/CDocRenewalPeriod/0.5 year","centric://REFLECTION/ENUM/CDocRenewalPeriod/1 year","centric://RE
+FLECTION/ENUM/CDocRenewalPeriod/2 years"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ReviewS
+KUType,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/Documen
+tFormat,value=["centric://REFLECTION/ENUM/DocumentFormat/Browzwear","centric://REFLECTION/ENUM/Do
+cumentFormat/Clo","centric://REFLECTION/ENUM/DocumentFormat/3DViewable","centric://REFLECTION/ENU
+M/DocumentFormat/Unified3DMaterial","centric://REFLECTION/ENUM/DocumentFormat/Vizoo3DxTex","centr
+ic://REFLECTION/ENUM/DocumentFormat/AdobeSubstance","centric://REFLECTION/ENUM/DocumentFormat/Ado
+beIllustrator"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/SKUStat
+us,value=[]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/VIPNoti
+ficationPriority,value=["centric://REFLECTION/ENUM/VIPNotificationPriority/High","centric://REFLE
+CTION/ENUM/VIPNotificationPriority/Normal","centric://REFLECTION/ENUM/VIPNotificationPriority/Low
+"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/ColumnW
+idthType,value=["centric://REFLECTION/ENUM/ColumnWidthType/XS","centric://REFLECTION/ENUM/ColumnW
+idthType/S","centric://REFLECTION/ENUM/ColumnWidthType/M","centric://REFLECTION/ENUM/ColumnWidthT
+ype/L","centric://REFLECTION/ENUM/ColumnWidthType/XL"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/QuoteSa
+mpleOption,value=["centric://REFLECTION/ENUM/QuoteSampleOption/ByTemplate","centric://REFLECTION/
+ENUM/QuoteSampleOption/PreviousSetup"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/WbsElem
+ent.State,value=["centric://REFLECTION/ENUM/WbsElement.State/Planned","centric://REFLECTION/ENUM/
+WbsElement.State/PlannedUnneeded","centric://REFLECTION/ENUM/WbsElement.State/Blocked","centric:/
+/REFLECTION/ENUM/WbsElement.State/InProcess","centric://REFLECTION/ENUM/WbsElement.State/Complete
+","centric://REFLECTION/ENUM/WbsElement.State/Unneeded","centric://REFLECTION/ENUM/WbsElement.Sta
+te/Skipped","centric://REFLECTION/ENUM/WbsElement.State/Startable","centric://REFLECTION/ENUM/Wbs
+Element.State/SuspendedInProcess","centric://REFLECTION/ENUM/WbsElement.State/SuspendedStartable"
+,"centric://REFLECTION/ENUM/WbsElement.State/Skippable","centric://REFLECTION/ENUM/WbsElement.Sta
+te/SuspendedSkippable"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=centric://REFLECTION/ENUM/LabelCa
+lculationPolicy,value=["centric://REFLECTION/ENUM/LabelCalculationPolicy/FromCalculated","centric
+://REFLECTION/ENUM/LabelCalculationPolicy/FromManual"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C719,value=["C720","C722","C5885"
+,"C5886","C5887","C8119","C8120","C8121","C30714"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C737,value=["C738","C739"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C715,value=["C716","C717","C8123"
+]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C8122,value=["C8249","C8250","C82
+51","C8252","C8253","C8254","C8255","C8256","C8257","C8258","C8259","C8260","C8261","C8262","C826
+3"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C8124,value=["C8456","C8457","C84
+58","C8459","C8460","C8461","C8462","C8463","C8464","C8465","C8466","C8467","C8468","C8469","C847
+0","C8471","C8472","C8473","C8474","C8475","C8476","C8477","C8478","C8479","C8480","C8481","C8482
+","C8483","C8484","C8485","C8486","C8487","C8488","C8489","C8490","C8491","C8492","C8493","C8494"
+,"C8495","C8496","C8497","C8498","C8499","C8500","C8501","C8502","C8503","C50463","C50464","C5046
+5","C50466","C50467","C50468","C50469","C50470","C50471","C50472","C50473","C50474","C50475","C50
+476","C50477","C50478","C50479","C50480","C50481","C50482"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C21175,value=["C21236","C21237","
+C21238","C21239","C21240","C21241","C21242","C21243","C21244","C21245","C21246","C21247","C21248"
+,"C21249","C21250","C21251","C21252","C21253","C21254","C21255","C21256","C21257","C21258","C2125
+9","C21260","C21261","C21262","C21263","C21264","C21265","C21266","C21267","C21268","C21272","C21
+273","C21274","C21275","C48159","C54261","C54262","C54263","C54264","C54265","C54266","C54267","C
+54268","C54269","C54270","C54271","C54272","C54276","C54277","C54278","C54279","C54281","C54282"]
+
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C34272,value=["C34273","C34274","
+C34275"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C34379,value=["C34380","C34381"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C35138,value=["C35139","C35140"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C40389,value=["C40391","C40392"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C41878,value=["C41879","C41880","
+C41881","C41882","C41883","C41884","C41885"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C48120,value=["C48121","C48122","
+C48123","C48124","C48125","C48126","C48127","C48128","C48129"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C48157,value=["C48158"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C48245,value=["C48246","C48247","
+C48248","C48249","C48250","C48251","C48252","C48253","C48254","C48255","C48256","C48257","C48258"
+,"C48259","C48260","C48261","C55408","C55409","C55410"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C49086,value=["C49087","C49088","
+C75947","C59960","C59959","C59961","C87770","C87769","C59962","C59963","C59964","C59965"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C49482,value=["C49483","C49484","
+C49485","C49486","C49487","C49488","C49489","C49490","C49491","C49492","C49493","C49494"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C55169,value=["C55170","C55171","
+C55172"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C55173,value=["C55174","C55175","
+C55176"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C55177,value=["C55178","C55179","
+C55180"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C70648,value=["C70649","C70650","
+C70651"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C79131,value=["C79132","C79133"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C79197,value=["C79198","C79199","
+C79200"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C90783,value=["C90784","C90785","
+C90786","C90787","C90788","C90789","C90790","C90791","C90793","C90794"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C93963,value=["C94011","C94012","
+C94013","C94014","C94015","C94016"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C93964,value=["C93970","C93971"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C93965,value=["C94017","C94018","
+C94019","C94020","C94021","C94022"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C93966,value=["C93972","C93973","
+C93974"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C93967,value=["C94023","C94024","
+C94025","C94026","C94027"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C93968,value=["C94028","C94029","
+C94030","C94031"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C93969,value=["C94064","C94065","
+C94066","C94067"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C95114,value=["C95115","C95116"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C96400,value=["C96401","C96402","
+C96403"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C96409,value=["C96410","C96411","
+C96412","C96413","C96414","C96415","C96416"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.enhancement.modules.c8.component.dep.De
+pPathResult [108] - DepPath查查?，，??存存?件件中中返返回回值值：：exp=Values,url=C96528,value=["C96529","C96531"]
+[ DEBUG] [2024-12-23 23:13:54] [main] com.centricsoftware.core.config.BootConfig [68] - =========
+初初始始化化?存存成成功功！！=========
+[ WARN ] [2024-12-23 23:13:55] [main] com.netflix.config.sources.URLConfigurationSource [120] - N
+o URLs will be polled as dynamic configuration sources.
+[ INFO ] [2024-12-23 23:13:55] [main] com.netflix.config.sources.URLConfigurationSource [121] - T
+o enable URLs as dynamic configuration sources, define System property archaius.configurationSour
+ce.additionalUrls or make config.properties available on classpath.
+[ WARN ] [2024-12-23 23:13:55] [main] com.netflix.config.sources.URLConfigurationSource [120] - N
+o URLs will be polled as dynamic configuration sources.
+[ INFO ] [2024-12-23 23:13:55] [main] com.netflix.config.sources.URLConfigurationSource [121] - T
+o enable URLs as dynamic configuration sources, define System property archaius.configurationSour
+ce.additionalUrls or make config.properties available on classpath.
+[ INFO ] [2024-12-23 23:13:57] [main] org.springframework.cloud.commons.util.InetUtils [170] - Ca
+nnot determine local hostname
+[ INFO ] [2024-12-23 23:13:57] [main] com.centricsoftware.core.service.PlmTest [61] - Started Plm
+Test in 24.095 seconds (JVM running for 25.722)
+[ DEBUG] [2024-12-23 23:13:57] [main] com.centricsoftware.enhancement.modules.c8.service.curd.C8S
+earchService [57] - ?行行DepPath查查?：：url=DepPath(paths=[Child:C8_SKU_Cou765331·ntry, Child:C8_SKU_R
+egion], urls=[], xml=<Query><Node Parameter="Type" Op="EQ" Value="SKU" /></Query>, type=XML);depP
+ath={}
+[ERROR] Tests run: 2, Failures: 0, Errors: 2, Skipped: 0, Time elapsed: 31.172 s <<< FAILURE! - i
+n com.centricsoftware.core.service.PlmTest
+[ERROR] testTemplates  Time elapsed: 1.617 s  <<< ERROR!
+java.lang.IllegalStateException: Cannot add merged region A1:G1 to sheet because it overlaps with
+ an existing merged region (A1:G1).
+        at com.centricsoftware.core.service.PlmTest.testTemplates(PlmTest.java:92)
+
+[ERROR] testEnum  Time elapsed: 4.825 s  <<< ERROR!
+cn.hutool.extra.mail.MailException:
+AuthenticationFailedException: 535 Error: authentication failed, system busy
+
+        at com.centricsoftware.core.service.PlmTest.testEnum(PlmTest.java:50)
+Caused by: javax.mail.AuthenticationFailedException:
+535 Error: authentication failed, system busy
+
+        at com.centricsoftware.core.service.PlmTest.testEnum(PlmTest.java:50)
+
+[ INFO ] [2024-12-23 23:14:04] [SpringContextShutdownHook] org.springframework.scheduling.concurr
+ent.ThreadPoolTaskExecutor [218] - Shutting down ExecutorService 'taskExecutorI'
+[ DEBUG] [2024-12-23 23:14:04] [SpringContextShutdownHook] com.centricsoftware.commons.utils.Spri
+ngContextHolder [58] - 清清除除SpringContextHolder中中的的ApplicationContext:org.springframework.web.cont
+ext.support.GenericWebApplicationContext@42b71d, started on Mon Dec 23 23:13:37 CST 2024, parent:
+ org.springframework.context.annotation.AnnotationConfigApplicationContext@21ea29
+[INFO]
+[INFO] Results:
+[INFO]
+[ERROR] Errors: 
+[ERROR]   PlmTest.testEnum:50 ? Mail AuthenticationFailedException: 535 Error: authentic...
+[ERROR]   PlmTest.testTemplates:92 ? IllegalState Cannot add merged region A1:G1 to shee...
+[INFO]
+[ERROR] Tests run: 2, Failures: 0, Errors: 2, Skipped: 0
+[INFO]
+[INFO] ------------------------------------------------------------------------
+[INFO] Reactor Summary:
+[INFO]
+[INFO] plm-service-http 2.0 ............................... SUCCESS [  0.368 s]
+[INFO] config 2.0 ......................................... SUCCESS [  2.783 s]
+[INFO] mybatis 2.0 ........................................ SUCCESS [  4.156 s]
+[INFO] commons 2.1 ........................................ SUCCESS [  4.867 s]
+[INFO] enhancement 2.1 .................................... SUCCESS [  8.804 s]
+[INFO] core 2.0 ........................................... FAILURE [ 38.391 s]
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD FAILURE
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  59.613 s
+[INFO] Finished at: 2024-12-23T23:14:04+08:00
+[INFO] ------------------------------------------------------------------------
+[ERROR] Failed to execute goal org.apache.maven.plugins:maven-surefire-plugin:2.22.2:test (defaul
+t-test) on project core: There are test failures.
+[ERROR]
+[ERROR] Please refer to D:\workplace_jwis_special_lenovo\C8_GIT\core\target\surefire-reports for
+the individual test results.
+[ERROR] Please refer to dump files (if any exist) [date].dump, [date]-jvmRun[N].dump and [date].d
+umpstream.
+[ERROR] -> [Help 1]
+[ERROR]
+[ERROR] To see the full stack trace of the errors, re-run Maven with the -e switch.
+[ERROR] Re-run Maven using the -X switch to enable full debug logging.
+[ERROR]
+[ERROR] For more information about the errors and possible solutions, please read the following a
+rticles:
+[ERROR] [Help 1] http://cwiki.apache.org/confluence/display/MAVEN/MojoFailureException
+[ERROR]
+[ERROR] After correcting the problems, you can resume the build with the command
+[ERROR]   mvn <args> -rf :core
+
+D:\workplace_jwis_special_lenovo\C8_GIT>
